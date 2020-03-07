@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-cloudinary-with-folder",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Cloudinary provider for strapi upload",
   "homepage": "http://strapi.io",
   "keywords": [
